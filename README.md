@@ -1,8 +1,8 @@
 <h1>🐍 Snake Game V2</h1>
-<img loading="lazy" src="https://img.shields.io/github/stars/DanielSouza2005?style=social"/>
+<img loading="lazy" src="https://img.shields.io/github/stars/SnakeGame_v2?style=social"/>
 
-<h2>💡 About</h2>
-<p>Snake game developed for Linear Algebra subject in college.</p>
+<h2>💡 Sobre </h2>
+<p>Este é um jogo da cobrinha desenvolvido com HTML, CSS e JavaScript. A versão 2 apresenta melhorias em relação à versão anterior, incluindo uma interface mais moderna e responsiva, além de uma jogabilidade aprimorada.</p>
 
 <h2>🖥️ Technologies used </h2>
 <div align="left" dir="auto">
@@ -14,5 +14,9 @@
 
 <h2>🛠️ Project Features </h2>
 
-- ⏹️ `Responsive layout`: Made to be compatible with different screen sizes, such as computers and smartphones.
-- 💯 `Score`: The best score is saved in local storage, in order to retrive the information saved every the game is loaded.
+- 📱 <code>Layout Responsivo</code>: O jogo adapta-se perfeitamente a diferentes tamanhos de tela, proporcionando uma experiência consistente em dispositivos móveis e desktops.​
+- 🎯 <code>Controles Intuitivos</code>: Movimente a cobrinha utilizando as teclas direcionais do teclado, garantindo uma jogabilidade fluida e responsiva.​
+- 🍎 <code>Crescimento da Cobrinha</code>: A cada alimento consumido, a cobrinha aumenta de tamanho, aumentando o desafio conforme o jogo progride.​
+- 💥 <code>Detecção de Colisões</code>: O jogo detecta colisões com as bordas do campo e com o próprio corpo da cobrinha, encerrando a partida quando ocorrem.​
+- 🧮 <code>Sistema de Pontuação</code>: A pontuação aumenta com base na quantidade de alimentos consumidos, incentivando o jogador a superar seus próprios recordes.​
+- 💾 <code>Armazenamento de Pontuação Máxima</code>: A maior pontuação alcançada pelo jogador é salva localmente, permitindo que ele acompanhe seu progresso ao longo do tempo.
