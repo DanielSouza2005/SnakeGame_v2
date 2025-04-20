@@ -1,5 +1,5 @@
 <h1>🐍 Snake Game V2</h1>
-<img loading="lazy" src="https://img.shields.io/github/stars/SnakeGame_v2?style=social"/>
+<img loading="lazy" src="https://img.shields.io/github/stars/DanielSouza2005/SnakeGame_v2?style=social"/>
 
 <h2>💡 Sobre </h2>
 <p>Este é um jogo da cobrinha desenvolvido com HTML, CSS e JavaScript. A versão 2 apresenta melhorias em relação à versão anterior, incluindo uma interface mais moderna e responsiva, além de uma jogabilidade aprimorada.</p>
